@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+}
+
+body  {
+    margin: auto;
+    text-align: center;
+    /* background-color: rgb(72, 64, 102); */
+    background-image: linear-gradient(10deg, rgb(13, 9, 29), rgb(50, 37, 97), rgb(13, 9, 29));
+    color: #ffffff;
+    font-family: 'Quicksand';
+    font-size: 20px;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 30px;
+    padding: 20px;
+}
+h2 {
+    font-size: 24px;
+    line-height: 125%;
+}
+
+p {
+    margin: 30px;
+    text-align: center;
+}
+
+.mockup-mobile {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+
+    border-radius: 50px;
+    box-shadow: 4px 10px 20px #0000008f;
+
+    width: 350px;
+    height: 680px;
+    background-color: black;
+
+    text-align: center;
+
+}
+
+.site-apoio {
+    margin: auto;
+    width:330px;
+    height: 540px;
+
+}
+
+.alto-falante {
+    position: absolute;
+    width: 80px;
+    height: 15px;
+    border-radius: 40px;
+    background-color: #252424;
+
+    margin-top: 30px;
+   
+}
+
+.logo-git { 
+    margin-top: 10px;
+}
+
+#back-git {
+    margin-top: -4px;
+    text-align: center;
+}
+
+a {
+    color: #ffffff;
+}
