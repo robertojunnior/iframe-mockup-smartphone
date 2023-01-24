@@ -7,7 +7,7 @@
 <li>CSS
 <li>Git and GitHub
 
-Clique na imagem para abrir em seu navegador
+Clique na imagem para abrir em seu navegador:
 
 <a href="https://robertojunnior.github.io/html-css-javascript-curso-em-video/Exerc%C3%ADcios/ex024/iframe002.html" target="_blank"><img src="./assets/iframe-ex024.png" alt="imagem do ex-024"></a>
 
