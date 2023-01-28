@@ -40,14 +40,12 @@ p {
     background-color: black;
 
     text-align: center;
-
 }
 
 .site-apoio {
     margin: auto;
     width:330px;
     height: 540px;
-
 }
 
 .alto-falante {
@@ -58,7 +56,6 @@ p {
     background-color: #252424;
 
     margin-top: 30px;
-   
 }
 
 .logo-git { 
